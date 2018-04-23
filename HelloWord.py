@@ -8,3 +8,6 @@ print(a)
 
 c =5+7
 print(c)
+
+d = 7-3
+print(d)
