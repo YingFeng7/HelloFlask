@@ -5,3 +5,6 @@ print('厉害了')
 
 a='nihao a xiaobai '
 print(a)
+
+c =5+7
+print(c)
